@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AnalyzerViewer">
+</Property><Property Name="Solution File" Value="C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer.suo">
+</Property><Property Name="Date" Value="Monday, August 5, 2013">
+</Property><Property Name="Time" Value="9:41 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AnalyzerViewer.sln" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AnalyzerViewer.suo" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer.suo">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerViewer.csproj" Description="Project file successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\AnalyzerViewer.csproj">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerInfo.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\AnalyzerInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerView.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\AnalyzerView.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\MainForm.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Program.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Program.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\TokenEnumerator.cs" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\TokenEnumerator.cs">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\DataSources\AnalyzerInfo.datasource" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\DataSources\AnalyzerInfo.datasource">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\MainForm.resx" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\Backup\AnalyzerViewer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerViewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerViewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AnalyzerViewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AnalyzerViewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnalyzerViewer" Source="AnalyzerViewer\AnalyzerViewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

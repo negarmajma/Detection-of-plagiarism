@@ -1,0 +1,22 @@
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.exe
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.pdb
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.dll
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.xml
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.MainForm.resources
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.Properties.Resources.resources
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.csproj.GenerateResource.Cache
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.exe
+C:\Users\Karen\Documents\Visual Studio 2010\Projects\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.pdb
+I:\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.exe
+I:\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.pdb
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.exe
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.pdb
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.exe
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\AnalyzerViewer.pdb
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.dll
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\bin\Release\Lucene.Net.xml
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.csprojResolveAssemblyReference.cache
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.MainForm.resources
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.Properties.Resources.resources
+C:\Users\Sepidar\Desktop\lucene\lucene\demo\AnalyzerViewer\AnalyzerViewer\obj\Release\AnalyzerViewer.csproj.GenerateResource.Cache
